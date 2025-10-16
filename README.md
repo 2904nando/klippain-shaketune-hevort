@@ -18,7 +18,7 @@ Follow these steps to install Shake&Tune on your printer:
   1. Then, append the following to your `printer.cfg` file and restart Klipper:
      ```
      [shaketune]
-     # result_folder: ~/printer_data/config/ShakeTune_results
+     # result_folder: ~/hevort_data/config/ShakeTune_results
      #    Path where the processed results will be stored. If the folder doesn't exist,
      #    it will be automatically created. You can change this if you'd like to store 
      #    results in a different location.
